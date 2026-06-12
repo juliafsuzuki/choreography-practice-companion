@@ -53,7 +53,7 @@ Then open the web preview and chat with the agent.
 
 <img width="1299" height="790" alt="image" src="https://github.com/user-attachments/assets/6ab5dede-2287-4802-89f6-c36b6780d3e1" />
 
-<img width="1435" height="530" alt="image" src="https://github.com/user-attachments/assets/d3c0d4fa-ce77-4f17-90c6-3f751358ff0b" />
+<img width="1436" height="524" alt="image" src="https://github.com/user-attachments/assets/75c7faed-fd7f-4b44-9815-cf73b4b83dbb" />
 
 <img width="1425" height="791" alt="image" src="https://github.com/user-attachments/assets/f3ecd682-722a-40c5-94e6-ef17c672da20" />
 
