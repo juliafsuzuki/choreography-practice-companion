@@ -49,6 +49,12 @@ python3 -m google.adk.cli web --allow_origins "regex:https://.*\.cloudshell\.dev
 
 Then open the web preview and chat with the agent.
 
+## Test the agent
+
+<img width="1299" height="790" alt="image" src="https://github.com/user-attachments/assets/6ab5dede-2287-4802-89f6-c36b6780d3e1" />
+
+👉 https://choreography-coach-320638869939.us-central1.run.app/dev-ui/?app=choreography_coach  
+
 ## About
 
-Built by [Julia Suzuki](https://github.com/juliafsuzuki), founder of **Truly Human AI** — an AI-first product company building personalized training companions for competitive ballroom dancers.
+Built by Julia Suzuki, founder of **Truly Human AI** — an AI-first product company building personalized training companions for competitive ballroom dancers.
