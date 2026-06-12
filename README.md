@@ -52,24 +52,27 @@ Then open the web preview and chat with the agent.
 ## Test the agent
 
 <img width="1299" height="790" alt="image" src="https://github.com/user-attachments/assets/6ab5dede-2287-4802-89f6-c36b6780d3e1" />
-Step 1: The home page loads in the Agent Development Kit interface. The user (a competitive ballroom dancer) is greeted with the "Choreography Coach Agent," an AI-powered assistant designed to help dancers practice choreographies more effectively by transforming a choreography video into a personalized practice companion. <br /> 
+Step 1: The home page loads in the Agent Development Kit interface. The user (a competitive ballroom dancer) is greeted with the "Choreography Coach Agent," an AI-powered assistant designed to help dancers practice choreographies more effectively by transforming a choreography video into a personalized practice companion. 
+<br /> 
 
 <img width="1436" height="524" alt="image" src="https://github.com/user-attachments/assets/75c7faed-fd7f-4b44-9815-cf73b4b83dbb" />
-Step 2: The dancer enters the initial prompt: "Can you help me practice my Waltz routine?"
+Step 2: The dancer enters the initial prompt: "Can you help me practice my Waltz routine?" <br />
 The agent responds by requesting three pieces of information:
 1. The file path to the showcase video
 2. The dance style (e.g., Waltz in 3/4 time)
-3. The approximate length of the routine in seconds <br />
+3. The approximate length of the routine in seconds
+<br />
 
 
 <img width="1425" height="791" alt="image" src="https://github.com/user-attachments/assets/f3ecd682-722a-40c5-94e6-ef17c672da20" />
 Step 3: The dancer enters a prompt with the requested information: "I want to practice my showcase. It's a 90-second Waltz in 3/4 time. The video is located at C:\Users\Julia\Videos\V_Rhythm.mp4."
-
+<br /> 
 The agent then works through the request transparently, showing each step:
 - It confirms that it is analyzing the tempo and time signature of the video.
 - It detects 90 BPM and confirms the 3/4 time signature.
 - It announces the next step: breaking the 90-second routine into manageable practice phrases of four measures each.
 - Finally, it delivers a personalized Waltz Practice Plan with 12 numbered phrases, each with exact timestamps (e.g., Phrase 01: 0:00–0:08, 12 counts), ending with Phrase 12 at 1:30. <br />
+<br />
 
 👉 https://choreography-coach-320638869939.us-central1.run.app/dev-ui/?app=choreography_coach  
 
