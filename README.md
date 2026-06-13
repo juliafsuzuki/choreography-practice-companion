@@ -1,14 +1,14 @@
-# What I built: Choreography Coach Agent
+# Personalized Choreography Practice Companion
 
 > An AI agent that transforms showcase videos into personalized practice companions, helping competitive ballroom dancers learn, refine, and master their routines.
 
 Built for the **Google for Startups: AI Agents Challenge 2026 — Track 1**.
 
-## Track 1: Build (Net-New Agents)
+### Track 1: Build (Net-New Agents)
 
 Start with a blank canvas and a complex business problem. In this track, you will leverage the Agent Development Kit (ADK)—or your preferred open-source framework like LangChain or CrewAI—to architect a net-new autonomous agent. Your goal is to move from static code to declarative intent. Show us how your agent uses the Model Context Protocol (MCP) to securely connect to external tools, gather context, and execute tasks autonomously.
 
-## What Choreography Coach Agent v1 does 
+## What it does 
 
 Choreography Coach Agent is an autonomous agent built with the **Google Agent Development Kit (ADK)** and powered by **Gemini 2.5 Flash**. A competitive dancer hands the agent a showcase video and a dance style.
 The agent then:
@@ -17,9 +17,9 @@ The agent then:
 2. Proposes a phrase-by-phrase practice breakdown aligned to the music
 3. Returns a personalized drill plan with timestamps and counts
 
-## Future State
+## Aspiration / Future State
 
-The end-state vision is for the agent to autonomously analyze a choreography video, generate per-phrase MP4 clips, and deploy a personalized "Showcase Practice" web application that dancers can use to drill and master their routines.
+The vision is for the agent to autonomously analyze a choreography video, generate per-phrase MP4 clips, and deploy a personalized "Showcase Practice" web application that dancers can use to drill and master their routines.
 
 The resulting experience would be similar to the Showcase Genie application that I built using Perplexity Computer.
 
