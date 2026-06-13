@@ -79,10 +79,12 @@ The agent then works through the request transparently, showing each step:
 
 ## About
 
-<img width="1024" height="1024" alt="Google for Startups - AI Agents Challenge - by Gamma" src="https://github.com/user-attachments/assets/b693fa83-281f-42b3-89e3-c9f99ae62eb7" />
-
 Built for Google for Startups - AI Agents Challenge.
 
 Built by Julia Suzuki, founder of **Truly Human AI**, an AI-first product company building personalized training companions for competitive ballroom dancers.
+
+<img width="877" height="496" alt="image" src="https://github.com/user-attachments/assets/906ad27e-5c5c-4e4c-ad26-28cdf92de07c" />
+
+
 
 
