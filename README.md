@@ -79,7 +79,7 @@ The agent then works through the request transparently, showing each step:
 
 ## About
 
-<img width="2848" height="1472" alt="Google for Startups - AI Agents Challenge" src="https://github.com/user-attachments/assets/f51229af-204d-44c2-b35f-82c438bedd49" />
+<img width="1024" height="1024" alt="Google for Startups - AI Agents Challenge - by Gamma" src="https://github.com/user-attachments/assets/b693fa83-281f-42b3-89e3-c9f99ae62eb7" />
 
 Built for Google for Startups - AI Agents Challenge.
 
