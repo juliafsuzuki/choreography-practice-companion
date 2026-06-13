@@ -6,7 +6,8 @@ Built for the **Google for Startups: AI Agents Challenge 2026 — Track 1**.
 
 ## What it does
 
-Choreography Coach is an autonomous agent built with the **Google Agent Development Kit (ADK)** and powered by **Gemini 2.5 Flash**. A competitive dancer hands the agent a showcase video and a dance style — the agent then:
+Choreography Coach is an autonomous agent built with the **Google Agent Development Kit (ADK)** and powered by **Gemini 2.5 Flash**. A competitive dancer hands the agent a showcase video and a dance style.
+The agent then:
 
 1. Analyzes the music's tempo and beat structure
 2. Proposes a phrase-by-phrase practice breakdown aligned to the music
@@ -78,4 +79,4 @@ The agent then works through the request transparently, showing each step:
 
 ## About
 
-Built by Julia Suzuki, founder of **Truly Human AI** — an AI-first product company building personalized training companions for competitive ballroom dancers.
+Built by Julia Suzuki, founder of **Truly Human AI**, an AI-first product company building personalized training companions for competitive ballroom dancers.
