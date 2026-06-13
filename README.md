@@ -13,6 +13,8 @@ The agent then:
 2. Proposes a phrase-by-phrase practice breakdown aligned to the music
 3. Returns a personalized drill plan with timestamps and counts
 
+## Future State
+
 The end-state vision is for the agent to autonomously analyze a choreography video, generate per-phrase MP4 clips, and deploy a personalized "Showcase Practice" web application that dancers can use to drill and master their routines.
 
 The resulting experience would be similar to the Showcase Genie application that I built using Perplexity Computer.
