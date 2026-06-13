@@ -66,7 +66,8 @@ Then open the web preview and chat with the agent.
 
 ## Test the agent
 
-👉 https://choreography-coach-320638869939.us-central1.run.app/dev-ui/?app=choreography_coach <br />  
+👉 https://choreography-coach-320638869939.us-central1.run.app/dev-ui/?app=choreography_coach <br />
+<br />
 
 <img width="1299" height="790" alt="image" src="https://github.com/user-attachments/assets/6ab5dede-2287-4802-89f6-c36b6780d3e1" />
 Step 1: The home page loads in the Agent Development Kit interface. The user (a competitive ballroom dancer) is greeted with the "Choreography Coach Agent," an AI-powered assistant designed to help dancers practice choreographies more effectively by transforming a choreography video into a personalized practice companion. <br /> 
