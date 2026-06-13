@@ -58,6 +58,7 @@ Step 1: The home page loads in the Agent Development Kit interface. The user (a 
 <img width="1436" height="524" alt="image" src="https://github.com/user-attachments/assets/75c7faed-fd7f-4b44-9815-cf73b4b83dbb" />
 Step 2: The dancer enters the initial prompt: "Can you help me practice my Waltz routine?"
 The agent responds by requesting three pieces of information:
+
 1. The file path to the showcase video
 2. The dance style (e.g., Waltz in 3/4 time)
 3. The approximate length of the routine in seconds
@@ -66,6 +67,7 @@ The agent responds by requesting three pieces of information:
 <img width="1425" height="791" alt="image" src="https://github.com/user-attachments/assets/f3ecd682-722a-40c5-94e6-ef17c672da20" />
 Step 3: The dancer enters a prompt with the requested information: "I want to practice my showcase. It's a 90-second Waltz in 3/4 time. The video is located at C:\Users\Julia\Videos\V_Rhythm.mp4."
 The agent then works through the request transparently, showing each step:
+
 - It confirms that it is analyzing the tempo and time signature of the video.
 - It detects 90 BPM and confirms the 3/4 time signature.
 - It announces the next step: breaking the 90-second routine into manageable practice phrases of four measures each.
