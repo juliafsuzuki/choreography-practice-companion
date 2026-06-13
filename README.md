@@ -1,6 +1,6 @@
 # What I built: Choreography Coach Agent
 
-> An AI agent that helps competitive ballroom dancers turn a showcase video into a personalized practice companion.
+> An AI agent that transforms showcase videos into personalized practice companions, helping competitive ballroom dancers learn, refine, and master their routines.
 
 Built for the **Google for Startups: AI Agents Challenge 2026 — Track 1**.
 
