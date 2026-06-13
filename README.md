@@ -71,6 +71,7 @@ Then open the web preview and chat with the agent.
 <img width="1299" height="790" alt="image" src="https://github.com/user-attachments/assets/6ab5dede-2287-4802-89f6-c36b6780d3e1" />
 Step 1: The home page loads in the Agent Development Kit interface. The user (a competitive ballroom dancer) is greeted with the "Choreography Coach Agent," an AI-powered assistant designed to help dancers practice choreographies more effectively by transforming a choreography video into a personalized practice companion. 
 
+<br />
 
 <img width="1435" height="530" alt="Step 2" src="https://github.com/user-attachments/assets/eb05cdcd-9d3a-4d4b-8c8d-608e5e128358" />
 Step 2: The dancer enters the initial prompt: "Can you help me practice my Waltz routine?"
@@ -80,14 +81,17 @@ The agent responds by requesting three pieces of information:
 2. The dance style (e.g., Waltz in 3/4 time)
 3. The approximate length of the routine in seconds
 
+<br />
 
 <img width="1426" height="527" alt="analyze_audio_tempo" src="https://github.com/user-attachments/assets/909e0b70-5908-4f7d-845e-9154a97ba280" />
 Notice: ADK function tool, analyze_audio_tempo is called 
 
+<br />
 
 <img width="1430" height="528" alt="propose_phrase_breakdown" src="https://github.com/user-attachments/assets/5c246f9d-f0f7-4bc1-80be-b9832e4969d0" />
 Notice: ADK function tool, propose_phrase_breakdown is called
 
+<br />
 
 <img width="1425" height="791" alt="image" src="https://github.com/user-attachments/assets/f3ecd682-722a-40c5-94e6-ef17c672da20" />
 Step 3: The dancer enters a prompt with the requested information: "I want to practice my showcase. It's a 90-second Waltz in 3/4 time. The video is located at C:\Users\Julia\Videos\V_Rhythm.mp4."
@@ -98,6 +102,7 @@ The agent then works through the request transparently, showing each step:
 - It announces the next step: breaking the 90-second routine into manageable practice phrases of four measures each.
 - Finally, it delivers a personalized Waltz Practice Plan with 12 numbered phrases, each with exact timestamps (e.g., Phrase 01: 0:00–0:08, 12 counts), ending with Phrase 12 at 1:30. <br />
 
+<br />
 
 ## About
 
