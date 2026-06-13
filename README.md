@@ -69,7 +69,7 @@ Then open the web preview and chat with the agent.
 👉 https://choreography-coach-320638869939.us-central1.run.app/dev-ui/?app=choreography_coach <br />  
 
 <img width="1299" height="790" alt="image" src="https://github.com/user-attachments/assets/6ab5dede-2287-4802-89f6-c36b6780d3e1" />
-Step 1: The home page loads in the Agent Development Kit interface. The user (a competitive ballroom dancer) is greeted with the "Choreography Coach Agent," an AI-powered assistant designed to help dancers practice choreographies more effectively by transforming a choreography video into a personalized practice companion. 
+Step 1: The home page loads in the Agent Development Kit interface. The user (a competitive ballroom dancer) is greeted with the "Choreography Coach Agent," an AI-powered assistant designed to help dancers practice choreographies more effectively by transforming a choreography video into a personalized practice companion. <br /> 
 
 <br />
 
@@ -84,12 +84,12 @@ The agent responds by requesting three pieces of information:
 <br />
 
 <img width="1426" height="527" alt="analyze_audio_tempo" src="https://github.com/user-attachments/assets/909e0b70-5908-4f7d-845e-9154a97ba280" />
-Notice: ADK function tool, analyze_audio_tempo is called 
+Notice: ADK function tool, analyze_audio_tempo is called <br /> 
 
 <br />
 
 <img width="1430" height="528" alt="propose_phrase_breakdown" src="https://github.com/user-attachments/assets/5c246f9d-f0f7-4bc1-80be-b9832e4969d0" />
-Notice: ADK function tool, propose_phrase_breakdown is called
+Notice: ADK function tool, propose_phrase_breakdown is called <br />
 
 <br />
 
