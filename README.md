@@ -1,4 +1,4 @@
-# Personalized Choreography Practice Companion
+# Choreography Practice Companion 
 
 > An AI agent that transforms showcase videos into personalized practice companions, helping competitive ballroom dancers learn, refine, and master their routines.
 
